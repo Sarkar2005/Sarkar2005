@@ -1,13 +1,13 @@
 # ChauhanHarshit
-<h1 align="center">Hi :wave:, I'm Harshit Chauhan</h1> <h3 align="center">A passionate Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChauhanHarshit&label=Profile%20views&color=0e75b6&style=flat" alt="ChauhanHarshit" /> </p>
+<h1 align="center">Hi :wave:, I'm Dipanjan Sarkar</h1> <h3 align="center">A passionate Software Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarkar2005&label=Profile%20views&color=0e75b6&style=flat" alt="Sarkar2005" /> </p>
 
-:seedling: Currently exploring depth of blockchains and L2's
+:seedling: Currently exploring depth of React and Node.js
 All of my projects are available at https://github.com/ChauhanHarshit
-:mailbox: How to reach me kcn9596@gmail.com
+:mailbox: How to reach me sarkar2005dipanjan@gmail.com
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
-<a href="https://www.linkedin.com/in/harshit-chauhan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipanjan-dsarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
 <a href="https://discord.gg/Nikhil007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
 </p>
  <br/>
