@@ -1,4 +1,4 @@
-# ChauhanHarshit
+# Sarkar2005
 <h1 align="center">Hi :wave:, I'm Dipanjan Sarkar</h1> <h3 align="center">A passionate Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarkar2005&label=Profile%20views&color=0e75b6&style=flat" alt="Sarkar2005" /> </p>
 
@@ -8,7 +8,7 @@ All of my projects are available at https://github.com/ChauhanHarshit
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
 <a href="https://www.linkedin.com/in/dipanjan-dsarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
-<a href="https://discord.gg/Nikhil007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
 </p>
  <br/>
 My Skill Set
@@ -39,12 +39,10 @@ My Skill Set
 ### DevOps
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
- <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr></table>
- <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChauhanHarshit&show_icons=true&locale=en&layout=compact" alt="ChauhanHarshit" /></p>
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChauhanHarshit&show_icons=true&locale=en" alt="ChauhanHarshit" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanHarshit&" alt="ChauhanHarshit" /></p>
+ <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarkar2005&show_icons=true&locale=en&layout=compact" alt="ChauhanHarshit" /></p>
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarkar2005&show_icons=true&locale=en" alt="ChauhanHarshit" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarkar2005&" alt="ChauhanHarshit" /></p>
