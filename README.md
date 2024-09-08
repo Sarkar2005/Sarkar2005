@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarkar2005&label=Profile%20views&color=0e75b6&style=flat" alt="Sarkar2005" /> </p>
 
 :seedling: Currently exploring depth of React and Node.js
-All of my projects are available at https://github.com/ChauhanHarshit
+All of my projects are available at https://github.com/Sarkar2005
 :mailbox: How to reach me sarkar2005dipanjan@gmail.com
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
