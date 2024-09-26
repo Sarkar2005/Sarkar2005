@@ -8,7 +8,7 @@ All of my projects are available at https://github.com/Sarkar2005
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
 <a href="https://www.linkedin.com/in/dipanjan-dsarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
 </p>
  <br/>
 My Skill Set
