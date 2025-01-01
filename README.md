@@ -43,6 +43,6 @@ My Skill Set
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr></table>
- <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarkar2005&show_icons=true&locale=en&layout=compact" alt="ChauhanHarshit" /></p>
+ <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarkar2005&show_icons=true&locale=en&layout=compact" alt="sarkar" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarkar2005&" alt="ChauhanHarshit" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarkar2005&" alt="sarkar2005" /></p>
